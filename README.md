@@ -1,1 +1,8 @@
 # recoil-escapement
+
+This si a recoil escapement animation with FreeCAD 0.19
+Assembly 4 Workbench
+Python 
+
+Open the FreeCAD file
+Copy and paste the Python file in the console
