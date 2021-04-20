@@ -1,6 +1,6 @@
 # recoil-escapement
 
-This si a recoil escapement animation with FreeCAD 0.19
+This is a recoil escapement animation with FreeCAD 0.19
 Assembly 4 Workbench
 Python 
 
