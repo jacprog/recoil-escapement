@@ -6,3 +6,5 @@ Python
 
 Open the FreeCAD file
 Copy and paste the Python file in the console
+also check other animation:
+https://github.com/jacprog/clockAnimation
